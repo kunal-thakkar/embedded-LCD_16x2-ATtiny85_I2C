@@ -7,7 +7,6 @@
  * ATtiny Pin 3 = (D4) N/U                         ATtiny Pin 4 = GND
  * ATtiny Pin 5 = (D0) SDA on DS1621  & GPIO       ATtiny Pin 6 = (D1) to LED2
  * ATtiny Pin 7 = (D2) SCK on DS1621  & GPIO       ATtiny Pin 8 = VCC (2.7-5.5V)
- * Kindly add pull up registor 4.7K for both SDA and SCK to +5V
  * LiquidCrystal_I2C lib was modified for ATtiny - on Playground with TinyWireM lib.
  * TinyWireM USAGE & CREDITS: - see TinyWireM.h
  */
